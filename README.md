@@ -3,6 +3,7 @@
 "深爱作根，勿眩俗取誉"
 
 "Keep your panic active, which is your compass"
+
 ---
 # About me
 Curious about what's happening and what happened

@@ -6,12 +6,14 @@
 
 ---
 # About me
-Curious about what's happening and what happened
-
-Exited to touch new things
-
-Always being probing into sth.
-
+<p>
+  <img align="right" width="47.7%" src="assets/ali_petals_golden.gif" alt="阿狸"/>
+  Curious about what's happening and what happened
+  <br/><br/>
+  Exited to touch new things
+  <br/><br/>
+  Always being probing into sth.
+</p>
 
 # Tech
 Using and Learning these tools!
